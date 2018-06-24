@@ -1,0 +1,175 @@
+#brakingNews{
+    width: 100%;
+    height: 30px;
+    background:  #fdfefe ;
+    margin:  0 auto;
+    text-align: center;
+   
+}
+#brakingNews1{
+    width: 15%;
+    height: 30px;
+    background:  #fdfefe ;
+    float: left;
+}
+#brakingNews2{
+    width: 60%;
+    height: 30px;
+    background:  #fdfefe ;
+   float: left;
+}
+#brakingNews3{
+    width: 25%;
+    height: 30px;
+    background:  #fdfefe ;
+    float: left;
+}
+#linkplace{
+    width: 100%;
+    height: 50px;
+    background:  #fdfefe ;
+    margin:  0 auto;
+    text-align: center;
+   
+}
+
+
+#mainbody{
+    width: 100%;
+    height: auto;
+    min-height: 600px;
+    background:  #fdfefe ;
+    margin:  0 auto;
+    text-align: center;
+}
+#bodyleft{
+    width: 70%;
+    height: auto;
+    min-height: 600px;
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#bodyleft1{
+    width: 50%;
+    height: auto;
+  
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#bodyleft11{
+    width: 80%;
+    height: auto;
+  
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#bodyleft12{
+    width: 80%;
+    height: auto;
+  
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+
+#bodyleft2{
+    width: 50%;
+    height: auto;
+
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#bodyleft21{
+    width: 80%;
+    height: auto;
+
+    background:  #fdfefe ;
+    margin:  0 auto;
+    text-align: center;
+}
+#bodyleft22{
+    width: 80%;
+    height: auto;
+
+    background:  #fdfefe ;
+     margin:  0 auto;
+    text-align: center;
+}
+
+
+#bodyright{
+    width: 30%;
+    height: auto;
+    min-height: 600px;
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#bodyright1{
+    width: 100%;
+    height: auto;
+    min-height: 430px;
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#copyright{
+    width: 100%;
+    height: auto;
+    min-height: 200px;
+    background:  #fdfefe ;
+    margin:  0 auto;
+    text-align: center;
+}
+#copyrightLeft{
+    width: 20%;
+    height: auto;
+    min-height: 300px;
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#copyrightRight{
+    width: 80%;
+    height: auto;
+    min-height: 300px;
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#copyrightRight1{
+    width: 100%;
+    height: auto;
+    
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#copyrightRight2{
+    width: 100%;
+    height: auto;
+   
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#copyrightRight21{
+    width: 40%;
+    height: auto;
+   
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
+#copyrightRight22{
+    width: 60%;
+    height: auto;
+    
+    background:  #fdfefe ;
+    float: left;
+    text-align: center;
+}
